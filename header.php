@@ -22,7 +22,7 @@
     <title><?php wp_title(); ?></title>
     <?php wp_head(); ?>
 </head>
-<body>
+<body class="text-grey">
 
 <div class="container-fluid bg-peach">
   <!-- Menu header -->
